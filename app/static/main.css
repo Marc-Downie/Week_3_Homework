@@ -1,0 +1,11 @@
+#page-header{
+    text-align: center;
+    padding: 20px;
+    color: rgb(69, 185, 231);
+    text-decoration-line: underline;
+}
+
+body > form > p{
+    padding-top: 20px;
+    text-align: center;
+}
